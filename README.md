@@ -11,7 +11,7 @@ Featuring iconic horse names inspired by JoJo's Bizarre Adventure (yes, I went t
 ⏱️ Delays via Sleep() to create cinematic race progression  
 👑 Automatically announces the winner in a dramatic, colored outro  
 
-##How It Works  
+## How It Works  
 1.Each of the 8 horses gets random speed and endurance.  
 2.In each iteration of the race loop:  
  ->Their positions are updated based on their stats.  
