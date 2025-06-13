@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\LAPIFY\source\repos\horse_racing_simulator\horse_racing_simulator\main.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  horse_racing_simulator.vcxproj -> C:\Users\LAPIFY\source\repos\horse_racing_simulator\horse_racing_simulator\x64\Debug\horse_racing_simulator.exe
