@@ -12,10 +12,10 @@ Featuring iconic horse names inspired by JoJo's Bizarre Adventure (yes, I went t
 👑 Automatically announces the winner in a dramatic, colored outro  
 
 ## How It Works  
-1.Each of the 8 horses gets random speed and endurance.  
-2.In each iteration of the race loop:  
- ->Their positions are updated based on their stats.  
- ->Fatigue is increased.  
- ->If they hit obstacles, they either lose speed or gain fatigue.  
-3.Race continues until a horse crosses 150 units.  
-4.The winner is announced   
+1. Each of the 8 horses gets random speed and endurance.  
+2. In each iteration of the race loop:  
+ -> Their positions are updated based on their stats.  
+ -> Fatigue is increased.  
+ -> If they hit obstacles, they either lose speed or gain fatigue.  
+3. Race continues until a horse crosses 150 units.  
+4. The winner is announced   
